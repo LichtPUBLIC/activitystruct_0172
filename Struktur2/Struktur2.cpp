@@ -7,4 +7,5 @@ struct DetailAlamat {
 };
 
 struct mahasiswa {
+	string nim;
 	
