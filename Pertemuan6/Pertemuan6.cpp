@@ -8,3 +8,5 @@ struct mahasiswa {
 	int umur;
 };
 
+int main() {
+	
