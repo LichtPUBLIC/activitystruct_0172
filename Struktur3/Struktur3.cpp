@@ -13,4 +13,7 @@ struct mahasiswa {
 	int umur;
 };
 int main() {
+	mahasiswa mhs;
+	cout << "Nomor mahasiswa : ";
+	getline(cin, mhs.nim);
 	
