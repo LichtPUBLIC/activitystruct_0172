@@ -29,4 +29,6 @@ int main() {
 	cout << "Umur mahasiswa : ";
 	cin >> mhs.umur;
 
+	cout << endl;
+	cout << "\n Nim :" << mhs.nim;
 	
